@@ -38,6 +38,7 @@
 ## ⌛ Próximos estudos pretendidos
 
 #### 🟡 ReactJs
+#### 🟡 Docker
 
 ---
 
