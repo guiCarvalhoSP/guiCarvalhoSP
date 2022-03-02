@@ -27,9 +27,9 @@
 
 ## 📘 O que estou aprendendo atualmente
 
-### 🟢 Linguaguem Java - DIO
+### 🟢 ReactJs
 
-➡️ Objetivo: Aperfeiçoar e obter novos aprendizados.
+➡️ Objetivo: Aprender uma nova tecnologia.
 
 ### 🟢 Angular - Loiane.trainning
 
@@ -37,8 +37,8 @@
 
 ## ⌛ Próximos estudos pretendidos
 
-#### 🟡 ReactJs
 #### 🟡 Docker
+#### 🟡 Javascript (Intermediário/Avançado)
 
 ---
 
