@@ -4,7 +4,7 @@
    <img src="https://github.com/guiCarvalhoSP/guiCarvalhoSP/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-* 📖 Estudante de análise e desenvolvimento na FAM. 
+* 📖 Estudante de análise e desenvolvimento na UNINTER. 
 
 * 🧑🏻‍💻 Desenvolvedor Full Stack Jr. 
 
