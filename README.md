@@ -75,7 +75,7 @@
 ## 📈 Status
 
 <p align="center">
-  <img width="49%" height="170em" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
+  <img width="49%" height="170em" src="https://github-readme-stats.vercel.app/api?username=guiCarvalhoSP&show_icons=true&hide_border=true&theme=radical" />
   <img width="49%" height="170em" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiCarvalhoSP&layout=compact&hide_border=true&theme=radical" />
 </p>
 
