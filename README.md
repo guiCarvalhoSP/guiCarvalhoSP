@@ -27,11 +27,7 @@
 
 ## 📘 O que estou aprendendo atualmente
 
-### 🟢 ReactJs
-
-➡️ Objetivo: Aprender uma nova tecnologia.
-
-### 🟢 Angular - Loiane.trainning
+### 🟢 Java - Loiane.trainning
 
 ➡️ Objetivo: Aperfeiçoar aprendizados.
 
