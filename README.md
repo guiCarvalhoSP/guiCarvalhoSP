@@ -27,13 +27,12 @@
 
 ## 📘 O que estou aprendendo atualmente
 
-### 🟢 Java - Loiane.trainning
+### 🟢 Microsserviços e Docker - Udemy
 
 ➡️ Objetivo: Aperfeiçoar aprendizados.
 
 ## ⌛ Próximos estudos pretendidos
 
-#### 🟡 Docker
 #### 🟡 Javascript (Intermediário/Avançado)
 
 ---
