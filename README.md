@@ -27,14 +27,15 @@
 
 ## 📘 O que estou aprendendo atualmente
 
-### 🟢 Microsserviços e Docker - Udemy
+### 🟢 Reflexão e anotações em Java.
 
 ➡️ Objetivo: Aperfeiçoar aprendizados.
 
 ## ⌛ Próximos estudos pretendidos
 
 #### 🟡 Javascript (Intermediário/Avançado)
-
+#### 🟡 Docker (Aprimorar conhecimentos)
+#### 🟡 Mensageria
 ---
 
 ## ⚡ Habilidades Técnicas
