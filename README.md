@@ -9,7 +9,7 @@
 * 🧑🏻‍💻 Desenvolvedor Full Stack Jr. 
 
 <p align="center">
-  Buscando oportunidade emprego como Desenvolvedor Full Stack ou Front-end Jr.
+  Estagiario em desenvolvimento Java na GFT.
 </p>
 
 ## ☎️ Contatos
