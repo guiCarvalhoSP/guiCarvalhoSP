@@ -53,6 +53,7 @@
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/Angular-dd0031?style=flat&logo=react&logoColor=white)
 
 ### 🧑🏻‍💻 Ferramentas & Plataformas
 
