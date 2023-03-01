@@ -27,13 +27,12 @@
 
 ## 📘 O que estou aprendendo atualmente
 
-### 🟢 Reflexão e anotações em Java.
+### 🟢 ReactJS
 
 ➡️ Objetivo: Aperfeiçoar aprendizados.
 
 ## ⌛ Próximos estudos pretendidos
 
-#### 🟡 Javascript (Intermediário/Avançado)
 #### 🟡 Docker (Aprimorar conhecimentos)
 #### 🟡 Mensageria
 ---
