@@ -47,8 +47,9 @@
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/NodeJs-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-white?style=flat&logo=spring&logoColor=6DB33F)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
 
 ### 🧑🏻‍💻 Ferramentas & Plataformas
@@ -59,6 +60,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-447e9b?style=flat&logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffa816?style=flat&logo=Firebase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=2496ed)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001d34?style=flat&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=Canva&logoColor=white)
 
