@@ -6,11 +6,8 @@
 
 * 📖 Estudante de análise e desenvolvimento na UNINTER. 
 
-* 🧑🏻‍💻 Desenvolvedor Full Stack Jr. 
+* 🧑🏻‍💻 Desenvolvedor Full Stack. 
 
-<p align="center">
-  Estagiario em desenvolvimento Java na GFT.
-</p>
 
 ## ☎️ Contatos
 
@@ -27,13 +24,12 @@
 
 ## 📘 O que estou aprendendo atualmente
 
-### 🟢 ReactJS
+### 🟢 Next.Js e Clouds Services.
 
 ➡️ Objetivo: Aperfeiçoar aprendizados.
 
 ## ⌛ Próximos estudos pretendidos
 
-#### 🟡 Docker (Aprimorar conhecimentos)
 #### 🟡 Mensageria
 ---
 
@@ -44,7 +40,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ea0000?style=flat&logo=java&logoColor=white)
 
 ### 🧩 Bibliotecas & Frameworks
@@ -62,6 +58,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-13aa51?style=flat&logo=MongoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-447e9b?style=flat&logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffa816?style=flat&logo=Firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker&logoColor=2496ed)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001d34?style=flat&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat&logo=Canva&logoColor=white)
 
